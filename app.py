@@ -20,7 +20,7 @@ page = st.sidebar.radio(
 # Fungsi load dataset
 @st.cache_data
 def load_data():
-    return pd.read_csv("D:\People Analytics\data\employee_survey.csv")
+    return pd.read_csv('data/employee_survey.csv')
 
 # Data Understanding
 if page == "Data Understanding":
