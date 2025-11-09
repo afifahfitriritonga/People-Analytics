@@ -20,16 +20,8 @@ Tujuannya adalah memahami **faktor-faktor yang memengaruhi tingkat kepuasan kerj
 
 ---
 
-## 🧱 Struktur Folder
-📁 people-analytics-dashboard/
-│
-├── app.py # File utama Streamlit
-├── requirements.txt # Daftar library Python
-├── README.md # Dokumentasi proyek
-│
-├── 📂 data/
-└── employee_data.csv # Dataset utama
-
+## People Analytics Dashboard
+https://people-analytics-wax9ztgsetp4hoaz3cihzz.streamlit.app/
 
 ---
 
